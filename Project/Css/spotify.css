@@ -1,0 +1,244 @@
+#main_div{
+    border: 1px solid black;
+    font-family: sans-serif;
+    
+}
+#div1{
+    border: 1px solid black;
+    height: 80px;
+    display: flex;
+    background-color: black;
+}
+
+
+
+.nav{
+    color: white;
+    text-decoration: none;
+    margin-left: 10px;
+}
+.nav:hover{
+    color: rgb(62, 235, 62);
+}
+#spotify {
+    font-size: 30px;
+    margin-left: 200px;
+    line-height: 80px;
+
+}
+#sec0{
+    display: flex;
+}
+.sec1{
+    margin-left: 1000px;
+    margin-top: -50px;
+    display: flex;
+    
+}
+
+#line{
+    border: 1px solid white;
+}
+
+#div2{
+    border: 1px solid black;
+    height: 600px;
+    background-color:#BE28BC ;
+    background-image: url("https://www.scdn.co/i/free/bubbles-dktp.svg");
+    
+}
+#s1{
+    border: 0px solid black;
+    border-bottom: white;
+    background-color: white;
+    height: 470px;
+    float: left;
+    width: 300px;
+    position: absolute;
+    margin-left: 200px;
+    border-radius: 40px 40px 0px 0px;
+    margin-top: 130px;
+
+}
+#s2{
+    padding: 30px;
+    border-radius: 38px 38px 0px 0px;
+}
+#s3{
+    border: 1px solid black;
+    background-color: black;
+    width: 50px;
+    height: 5px;
+    border-radius: 10px;
+    position: absolute;
+    margin-left: 100px;
+    margin-top: -10px;
+}
+#sec2{
+    display: flex;
+}
+#img1{
+    margin-top: 30px;
+    margin-left: -115px;
+}
+
+
+#para2{
+    position: absolute;
+    font-size: 70px;
+    margin-left: 600px;
+    margin-top: 150px;
+    color: white;
+
+}
+#free{
+    border: 0px solid black;
+    text-decoration: none;
+    border-radius: 30px;
+    text-align: center;
+    width: 150px;
+    height: 15px;
+    padding: 20px;
+    position: absolute;
+    margin-left: 600px;
+    margin-top: 350px;
+    color: black;
+    background-color: white;
+    
+}
+
+#div3{
+    border: 1px solid black;
+    height: 600px;
+    display: flex;
+    
+    
+       
+}
+#sec3{
+    display: flex;
+    text-align: center;
+    margin-left: 600px;
+    position: absolute;
+    font-size: xx-large;
+}
+#sec4{
+display: flex;
+
+align-items: center;
+text-align: center;
+margin: 200px;
+}
+
+#div4{
+    border: 1px solid black;
+    height: 500px;
+    text-align: center;
+    background: linear-gradient(rgb(176, 35, 194) 15%, rgb(96, 11, 231));;
+}
+#para7{
+    margin: 200px;
+    font-size: 40px;
+    color: white;
+}
+
+#div5{
+    border: 1px solid black;
+    height: 600px;
+}
+#sec5{
+    text-align: center;
+    font-size: 30px;
+}
+
+#sec6{
+    margin-left: 200px;
+    
+}
+#div6{
+    border: 1px solid black;
+    height: 500px;
+    background: url(https://www.scdn.co/i/free/lets-play.svg);
+    background-color:blueviolet;
+}
+#para12{
+    color: white;
+    font-size: 40px;
+    text-align: center;
+    margin: 200px;
+}
+#free1{
+    border: 0px solid black;
+    text-decoration: none;
+    border-radius: 30px;
+    text-align: center;
+    width: 150px;
+    height: 15px;
+    padding: 20px;
+    position: absolute;
+    margin-left: 650px;
+    margin-top:-190px;
+    color: black;
+    background-color: white;
+}
+
+#div7{
+    border: 1px solid black;
+    height: 600px;
+    background-color: black;
+}
+#para13{
+    color: white;
+    font-size: 30px;
+}
+#sec7{
+    margin-left: 200px;
+    margin-top: 100px;
+    position: absolute;
+}
+#sec8{
+    color: white;
+    display: flex;
+    margin-top: 125px;
+    margin-left: 370px;
+    position: absolute;
+    
+}
+.li1{
+    color: #8A857E;
+}
+.ul1{
+    margin-left: 50px;
+}
+#sec9{
+    color: white;
+    margin-left: 1200px;
+    margin-top: 143px;
+    font-size: 35px;
+    position: absolute;
+       
+}
+#sm{
+    margin-left: 10px;
+}
+#sec10{
+    color: rgb(205, 194, 194);
+    font-size: x-small;
+    margin-left: 1225px;
+    margin-top: 500px;
+    position: absolute;
+}
+#sec11{
+    color: white;
+    display: flex;
+    /* justify-content: space-evenly; */
+    margin-left: 200px;
+    margin-top: 500px;
+    font-size: small;
+    color: rgb(205, 194, 194);
+    
+}
+.pa{
+    margin-left: 50px;
+    
+}
